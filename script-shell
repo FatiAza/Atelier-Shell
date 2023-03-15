@@ -1,0 +1,2 @@
+cd C:\Users\fatim\Desktop\ECF Mars
+grep "\S" input-lignes-vides.txt >> output-lignes-vides.txt
